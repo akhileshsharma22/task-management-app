@@ -311,9 +311,9 @@ Add your deployed application screenshots inside a `screenshots` folder and upda
 
 | Page | Preview |
 | --- | --- |
-| Login / Register | `screenshots/auth.png` |
+| Login / Register | `screenshots/login.png` |
+| Login / Register | `screenshots/register.png` |
 | Dashboard | `screenshots/dashboard.png` |
-| Task Modal | `screenshots/task-modal.png` |
 | Analytics | `screenshots/analytics.png` |
 | Profile | `screenshots/profile.png` |
 

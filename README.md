@@ -417,4 +417,12 @@ This project is available for learning, portfolio use, and further customization
 
 ---
 
+## Live Demo
+
+Frontend:
+`https://task-management-cwz8db1ie-akhileshsharma22s-projects.vercel.app`
+
+Backend:
+`https://task-management-app-2-anoq.onrender.com`
+
 ⭐ If you found this project helpful, consider starring the repository and using it as inspiration for your own MERN portfolio project.
